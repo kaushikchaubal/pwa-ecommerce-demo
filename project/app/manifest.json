@@ -6,6 +6,7 @@
     "background_color": "#2196F3",
     "theme_color": "#2196F3",
     "icons": {
+        "144": "/images/touch/icon-128x128.png",
         "128": "/images/touch/icon-128x128.png",
         "192": "/images/touch/icon-128x128.png",
         "512": "/images/touch/icon-128x128.png"
